@@ -7,7 +7,7 @@ ICS file containing all the important dates from the Maldives Academic Calendar
 ## Step 1: Access the ICS File from GitHub
 1. Go to the GitHub repository
 2. Navigate to the `ical` folder
-3. Find the `academic_calendar_2025_2026.ics` file
+3. Find the `maldives_academic_calendar.ics` file
 4. There are two ways to get the file:
    - **Option A:** Click "Raw" button and save the page as `.ics` file
    - **Option B:** Download the entire file directly from GitHub
